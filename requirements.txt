@@ -1,0 +1,16 @@
+# Core data processing
+numpy
+pandas
+
+# Plotting and visualization
+matplotlib
+seaborn
+
+# Deep learning and graph neural networks
+torch
+torch-geometric
+
+# Notebook environment and interactive widgets
+jupyter
+ipykernel
+ipywidgets
